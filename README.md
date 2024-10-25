@@ -36,14 +36,14 @@
     </ul>
     <h2 id="installation">Installation</h2>
     <p>To set up the project, follow these steps:</p>
-    <code>
+    <pre>
     # Clone the repository
     git clone <repository_url>
     # Navigate to the project directory
     cd <project_directory>
     # Install the required packages
     pip install -r requirements.txt
-    </code>
+    </pre>
     <h2 id="usage">Usage</h2>
     <p>
         To run the application, execute the following command:
